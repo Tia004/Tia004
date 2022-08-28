@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tia004, Tia Willow Mirabel Luz Rayla Katie Vi Valentina Rrapaj
+- 👋 Hi, I’m @Tia004, Tia Rrapaj Chinaglia
 - 🏳️‍⚧️ I go by She/They! 
 - 🌺 I love Encanto and other things!
 - 🌱 I'm mixed Italian/Albanian!
