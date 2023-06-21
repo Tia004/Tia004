@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @Tia004, Tia Rrapaj Chinaglia
-- 🏳️‍⚧️ I go by She/They! 
