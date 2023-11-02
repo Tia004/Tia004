@@ -5,11 +5,10 @@
 
 - 🌱 I’m currently learning **PHP, MySql and Rust**
 
-- 📫 How to reach me **tiachinaglia@gmail.com**
+- 📫 Reach me at **tiachinaglia@gmail.com**
 
 - ⚡ Fun fact **I like cultures and exploring them, at this time I'm studying more than 10 languages!**
 
-<h3 align="left">Connect with me: <a href="mailto:tiachinaglia@gmail.com">tiachinaglia@gmail.com</a></h3>
 <p align="left">
 </p>
 
