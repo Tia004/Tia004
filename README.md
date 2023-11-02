@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I like cultures and exploring them, at this time I'm studying more than 10 languages!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="mailto:tiachinaglia@gmail.com">tiachinaglia@gmail.com</a></h3>
 <p align="left">
 </p>
 
