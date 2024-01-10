@@ -1,6 +1,6 @@
 <div style="display: flex">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fobi-wan-hello&psig=AOvVaw0rkrrjOe9cfbCWe0IKpFqg&ust=1704973007076000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCyr8bd0oMDFQAAAAAdAAAAABAl">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-there-general-kenobi-gif-hellothere-generalkenobi-starwars-discover-share-gifs--303711568629798984%2F&psig=AOvVaw0rkrrjOe9cfbCWe0IKpFqg&ust=1704973007076000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCyr8bd0oMDFQAAAAAdAAAAABAv">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fobi-wan-hello&psig=AOvVaw0rkrrjOe9cfbCWe0IKpFqg&ust=1704973007076000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCyr8bd0oMDFQAAAAAdAAAAABAl" width="200" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-there-general-kenobi-gif-hellothere-generalkenobi-starwars-discover-share-gifs--303711568629798984%2F&psig=AOvVaw0rkrrjOe9cfbCWe0IKpFqg&ust=1704973007076000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCyr8bd0oMDFQAAAAAdAAAAABAv" width="200" />
 </div>
 <h1 align="center">"Hello there" "General Kenobi"</h1>
 <h3 align="center">Hi, I'm Tia, I'm an open-source mixed italian-albanian developer!</h3>
